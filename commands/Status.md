@@ -19,7 +19,7 @@ git status
 
 ## Resources
 
-- [Git Status Documentation](http://git-scm.com/doc/git-status)
+- [Git Status Documentation](https://git-scm.com/doc/git-status)
 
 ---
 
